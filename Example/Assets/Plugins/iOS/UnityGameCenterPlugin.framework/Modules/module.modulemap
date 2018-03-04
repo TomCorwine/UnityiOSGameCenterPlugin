@@ -1,0 +1,6 @@
+framework module UnityGameCenterPlugin {
+  umbrella header "UnityGameCenterPlugin.h"
+
+  export *
+  module * { export * }
+}
